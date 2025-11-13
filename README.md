@@ -12,7 +12,8 @@ An innovative application designed to empower employees to log and track their d
 4. [Installation](#installation)
 5. [Usage](#usage)
 6. [Dependencies](#dependencies)
-7. [Submission Guidelines](#submission-guidelines)
+7. [Contribution Note](#Contribution-Note)
+8. [Submission Guidelines](#submission-guidelines)
 
 ---
 
@@ -137,9 +138,23 @@ For the complete list, refer to the `package.json` file.
 
 ---
 
+## Developer Contribution Note
+
+This project was one of my earliest experiences during my training at Masai School. At that time, I was still learning core JavaScript concepts, while the team lead was exploring advanced technologies like **Next.js**, **schema validation**, and **component architecture**.
+
+### My main contributions included:
+- Working closely with the lead developer to understand the structure of a real-world Next.js project  
+- Assisting in organizing and maintaining the documentation and README  
+- Learning how schema validation, routing, and frontend frameworks operate in large applications  
+- Supporting the planning and conceptual workflow of task logging and productivity features  
+
+This project played an important role in helping me understand how fullstack applications are architected, even before I was fully hands-on with advanced technologies.
+
+---
+
 ### **Deployed Link**
 
--   Deploy the project (e.g., [Vercel](https://work-wise-20nsffdff-satyajeet1152000s-projects.vercel.app/login/)) and include the link here:  
+-   Deployed the project on [Vercel](https://work-wise-20nsffdff-satyajeet1152000s-projects.vercel.app/login/) and included the link here:  
     **[Live Demo](https://work-wise-20nsffdff-satyajeet1152000s-projects.vercel.app/login)**
 
 ---
